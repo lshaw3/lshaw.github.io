@@ -5,7 +5,7 @@ url: "https://lshaw3.github.io" # the base hostname & protocol for your site, e.
 # Change to your lang - This doesn't translate the theme, it just defines the main language the content is written in.
 lang: pt-EN
 
-timezone: America/Belem # Change to your timezone - https://kevinnovak.github.io/Time-Zone-Picker/
+timezone: America/New_York # Change to your timezone - https://kevinnovak.github.io/Time-Zone-Picker/
 
 title: Luke
 tagline: Aspring Software Engineer
@@ -14,12 +14,12 @@ avatar: "assets/img/avatar/avatar.png" # The avatar on sidebar
 
 # Social profiles
 email: lshaw3@bowdoin.edu
-github: elainefs
-linkedin: elaineferreiras
+github: lshaw3
+linkedin: lukeshaw3
 instagram:
 mastodon:
-  instance: mastodon.social
-  user: elainefs
+  instance: 
+  user: 
 
 # Url for you account: Buy Me A Coffee, Ko-fi, Patreon, etc.
 donate:
