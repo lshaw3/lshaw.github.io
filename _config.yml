@@ -16,13 +16,8 @@ avatar: "assets/img/avatar/avatar.png" # The avatar on sidebar
 email: lshaw3@bowdoin.edu
 github: lshaw3
 linkedin: lukeshaw3
-instagram:
-mastodon:
-  instance: 
-  user: 
 
-# Url for you account: Buy Me A Coffee, Ko-fi, Patreon, etc.
-donate:
+
 
 # License - eg: Copyright, CC BY-NC-SA 4.0, etc.
 license: MIT License
