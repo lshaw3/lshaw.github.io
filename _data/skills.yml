@@ -2,8 +2,13 @@
 # https://github.com/simple-icons/simple-icons/blob/master/slugs.md
 
 skills:
-  - skill: jekyll
+  - skill: c
+  - skill: cplusplus
+  - skill: python
+  - skill: flask
+  - skill: git
+  - skill: github
+  - skill: junit5
   - skill: html5
   - skill: css3
-  - skill: javascript
   - skill: bootstrap
