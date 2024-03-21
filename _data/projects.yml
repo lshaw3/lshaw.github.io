@@ -56,8 +56,8 @@
   repository: "https://github.com/lshaw3/Note-Taking-WebApp"
   deploy: "https://github.com/lshaw3/Note-Taking-WebApp"
   stacks:
-    - stack: html
-    - stack: css
+    - stack: html5
+    - stack: css3
     - stack: bootstrap
     - stack: python
     - stack: flask
@@ -70,8 +70,8 @@
   repository: "https://github.com/lshaw3/Increment-Decrement-Counter"
   deploy: "https://github.com/lshaw3/Increment-Decrement-Counter"
   stacks:
-    - stack: html
-    - stack: css
+    - stack: html5
+    - stack: css3
     - stack: bootstrap
     - stack: python
     - stack: flask
@@ -84,8 +84,8 @@
   repository: "https://github.com/lshaw3/LeagueOfLegends-Smurf-Calculator"
   deploy: "https://github.com/lshaw3/LeagueOfLegends-Smurf-Calculator"
   stacks:
-    - stack: html
-    - stack: css
+    - stack: html5
+    - stack: css3
     - stack: bootstrap
     - stack: python
     - stack: flask
