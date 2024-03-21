@@ -18,15 +18,75 @@
 #     - stack: html5
 # ---------------------------------------------------------
 
-- name: "Jekyll Theme - Case"
+- name: "Bowdoin Shell"
   description: >
-    A Jekyll theme with sidebar for personal website and blog.
-  image: "assets/img/mockup.png"
-  repository: "https://github.com/elainefs/jekyll-theme-case"
+    Created a Shell program that supports unix style job control.
   deploy: "https://elainefs.github.io/jekyll-theme-case"
   stacks:
-    - stack: jekyll
-    - stack: html5
-    - stack: css3
-    - stack: javascript
+    - stack: c
+    - stack: github
+
+- name: "Cache Simulator"
+  description: >
+    Created a C program that simulates the behavior of hardware cache on real-world memory usage traces
+  deploy: "https://github.com/elainefs"
+  stacks:
+    - stack: c
+    - stack: github
+
+- name: "Maine Snow Reporter"
+  description: >
+    Created a webpage that display daily snowfalls for popular ski resorts in Maine as scraped from the resorts websites. Also implemented a scheduler to run hourly.
+  
+  image: "assets/img/banner/banner-projetos-500x300.png"
+  repository: "https://github.com/lshaw3/MaineSnowReport"
+  deploy: "https://github.com/lshaw3/MaineSnowReport"
+  stacks:
+    - stack: html
+    - stack: css
     - stack: bootstrap
+    - stack: python
+    - stack: flask
+    - stack: github
+    
+- name: "Note taking webapp"
+  description: >
+    Created a webapp that supports user authentication and note taking on a per user basis.
+  image: "assets/img/banner/banner-projetos-500x300.png"
+  repository: "https://github.com/lshaw3/Note-Taking-WebApp"
+  deploy: "https://github.com/lshaw3/Note-Taking-WebApp"
+  stacks:
+    - stack: html
+    - stack: css
+    - stack: bootstrap
+    - stack: python
+    - stack: flask
+    - stack: sqlalchemy
+
+- name: "Increment and Decrement Counter"
+  description: >
+    Created a webpage that implements a database that stores a counter that you can increment / decrement.
+  image: "assets/img/banner/banner-projetos-500x300.png"
+  repository: "https://github.com/lshaw3/Increment-Decrement-Counter"
+  deploy: "https://github.com/lshaw3/Increment-Decrement-Counter"
+  stacks:
+    - stack: html
+    - stack: css
+    - stack: bootstrap
+    - stack: python
+    - stack: flask
+    - stack: sqlalchemy
+
+- name: "League of Legends rank up calculator"
+  description: >
+     Created a webapp that given a starting rank, goal rank, and winrate and elo gains / losses will calculate how many games to reach the desired rank.
+  image: "assets/img/banner/banner-projetos-500x300.png"
+  repository: "https://github.com/lshaw3/LeagueOfLegends-Smurf-Calculator"
+  deploy: "https://github.com/lshaw3/LeagueOfLegends-Smurf-Calculator"
+  stacks:
+    - stack: html
+    - stack: css
+    - stack: bootstrap
+    - stack: python
+    - stack: flask
+    - stack: sqlalchemy
