@@ -38,7 +38,7 @@
   description: >
     Created a webpage that display daily snowfalls for popular ski resorts in Maine as scraped from the resorts websites. Also implemented a scheduler to run hourly.
   
-  image: "assets/img/banner/banner-projetos-500x300.png"
+  image: "assets/img/snow report/snowhome.png"
   repository: "https://github.com/lshaw3/MaineSnowReport"
   deploy: "https://github.com/lshaw3/MaineSnowReport"
   stacks:
@@ -52,7 +52,7 @@
 - name: "Note taking webapp"
   description: >
     Created a webapp that supports user authentication and note taking on a per user basis.
-  image: "assets/img/banner/banner-projetos-500x300.png"
+  image: "assets/img/note taking/signup.png"
   repository: "https://github.com/lshaw3/Note-Taking-WebApp"
   deploy: "https://github.com/lshaw3/Note-Taking-WebApp"
   stacks:
@@ -66,7 +66,7 @@
 - name: "Increment and Decrement Counter"
   description: >
     Created a webpage that implements a database that stores a counter that you can increment / decrement.
-  image: "assets/img/banner/banner-projetos-500x300.png"
+  image: "assets/img/increment/incrementhome.png"
   repository: "https://github.com/lshaw3/Increment-Decrement-Counter"
   deploy: "https://github.com/lshaw3/Increment-Decrement-Counter"
   stacks:
@@ -80,7 +80,7 @@
 - name: "League of Legends rank up calculator"
   description: >
      Created a webapp that given a starting rank, goal rank, and winrate and elo gains / losses will calculate how many games to reach the desired rank.
-  image: "assets/img/banner/banner-projetos-500x300.png"
+  image: "assets/img/league/leaguehome.png"
   repository: "https://github.com/lshaw3/LeagueOfLegends-Smurf-Calculator"
   deploy: "https://github.com/lshaw3/LeagueOfLegends-Smurf-Calculator"
   stacks:
