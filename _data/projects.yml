@@ -40,7 +40,7 @@
   
   image: "assets/img/snow report/snowhome.png"
   repository: "https://github.com/lshaw3/MaineSnowReport"
-  deploy: "https://github.com/lshaw3/MaineSnowReport"
+  deploy: "https://lshaw3.github.io/SnowMaker"
   stacks:
     - stack: html
     - stack: css
@@ -54,7 +54,7 @@
     Created a webapp that supports user authentication and note taking on a per user basis.
   image: "assets/img/note taking/signup.png"
   repository: "https://github.com/lshaw3/Note-Taking-WebApp"
-  deploy: "https://github.com/lshaw3/Note-Taking-WebApp"
+  deploy: "https://lshaw3.github.io/Notetaker"
   stacks:
     - stack: html5
     - stack: css3
@@ -68,7 +68,7 @@
     Created a webpage that implements a database that stores a counter that you can increment / decrement.
   image: "assets/img/increment/incrementhome.png"
   repository: "https://github.com/lshaw3/Increment-Decrement-Counter"
-  deploy: "https://github.com/lshaw3/Increment-Decrement-Counter"
+  deploy: "https://lshaw3.github.io/Counter"
   stacks:
     - stack: html5
     - stack: css3
@@ -82,7 +82,7 @@
      Created a webapp that given a starting rank, goal rank, and winrate and elo gains / losses will calculate how many games to reach the desired rank.
   image: "assets/img/league/leaguehome.png"
   repository: "https://github.com/lshaw3/LeagueOfLegends-Smurf-Calculator"
-  deploy: "https://github.com/lshaw3/LeagueOfLegends-Smurf-Calculator"
+  deploy: "https://lshaw3.github.io/League-of-Legends-Elo-Calculator"
   stacks:
     - stack: html5
     - stack: css3
