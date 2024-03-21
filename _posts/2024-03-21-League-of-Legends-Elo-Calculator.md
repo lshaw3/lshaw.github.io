@@ -15,5 +15,9 @@ tags:
 
 This was a project that was done for fun using HTML, CSS, Flask, Python and Bootstrap.
 
+It will use inputs as your current elo, goal elo, winrate, elo gains / losses and it will calculate how many games it will take to reach the desired rank.
+
+![Image](assets/img/league/leagueresult.png)
+
 
 
